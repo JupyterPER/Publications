@@ -1,4 +1,4 @@
-#W Conferences papers
+## Conferences papers
 
 by **Martina Hančová, Andrej Gajdoš, Jozef Hanč, Dominik Borovský**  
 
